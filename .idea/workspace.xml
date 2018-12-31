@@ -5,6 +5,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pe4.iml" beforeDir="false" />
+
+    <list default="true" id="1ed593c7-f3d8-478a-8cb5-42e02b4e4b53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pe4.iml" beforeDir="false" />
+
+    <list default="true" id="6d92a163-748c-48af-9e88-ad64907ff2d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pe4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+
+
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +35,73 @@
               <folding>
                 <element signature="e#335#336#0" expanded="true" />
                 <element signature="e#361#362#0" expanded="true" />
+
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Harry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/OccurenceofGivenChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#503#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/HarryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+              </folding>
+
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/OccurenceofGivenCharTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="661">
+              <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+              <folding>
+                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#1279#1280#0" expanded="true" />
+                <element signature="e#1524#1525#0" expanded="true" />
+                <element signature="e#1578#1579#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,6 +113,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+
+
+        <option value="JUnit4 Test Class" />
+
+
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -51,6 +135,30 @@
       </list>
     </option>
   </component>
+
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Harry.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/HarryTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+
+        <option value="$PROJECT_DIR$/src/test/java/StringTranspose.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringTranspose.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/OccurenceofGivenChar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/OccurenceofGivenCharTest.java" />
+      </list>
+    </option>
+  </component>
+
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -71,6 +179,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,6 +190,15 @@
             <path>
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -93,6 +211,25 @@
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+
+
+
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -129,6 +266,8 @@
           <select />
         </subPane>
       </pane>
+
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -136,6 +275,32 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546255845664" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546255736163" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546255937179" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/stackroute" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+
+
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -159,6 +324,9 @@
   </component>
   <component name="RunManager" selected="JUnit.ReplaceAllDwithFAndLwithTTest.TestForNoOccurencesAtAll">
     <configuration name="ReplaceAllDwithFAndIwithTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+
+  <component name="RunManager">
+    <configuration name="HarryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pe4" />
       <extension name="coverage">
         <pattern>
@@ -214,6 +382,7 @@
       <option name="MAIN_CLASS_NAME" value="com.stackroute.ReplaceAllDwithFAndLwithTTest" />
       <option name="METHOD_NAME" value="TestForNoOccurencesAtAll" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.HarryTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,6 +396,12 @@
       </list>
     </recent_temporary>
   </component>
+        <item itemvalue="JUnit.HarryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+
+
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -237,6 +412,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546253058971</updated>
+
+      <changelist id="1ed593c7-f3d8-478a-8cb5-42e02b4e4b53" name="Default Changelist" comment="" />
+      <created>1546253727252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546253727252</updated>
     </task>
     <servers />
   </component>
@@ -287,6 +468,45 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+    <history-entry file="HarryTest - 2018.12.31 at 16h 33m 44s.xml">
+      <configuration name="HarryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+
+      <changelist id="6d92a163-748c-48af-9e88-ad64907ff2d1" name="Default Changelist" comment="" />
+      <created>1546251962524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546251962524</updated>
+    </task>
+    <servers />
+  </component>
+
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49966374" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003362" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -330,6 +550,90 @@
           <folding>
             <element signature="e#335#336#0" expanded="true" />
             <element signature="e#361#362#0" expanded="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Harry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+          <folding>
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/HarryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/OccurenceofGivenChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#503#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/OccurenceofGivenCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1524#1525#0" expanded="true" />
+            <element signature="e#1578#1579#0" expanded="true" />
           </folding>
         </state>
       </provider>
