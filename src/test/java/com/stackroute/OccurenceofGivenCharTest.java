@@ -13,7 +13,7 @@ public class OccurenceofGivenCharTest {
     @Before
     public void setUp() throws Exception
     {
-        ref=new OccurenceofGivenChar();
+        ref=new OccurenceofGivenChar("Java is java again java again");
     }
 
     @After
@@ -28,7 +28,7 @@ public class OccurenceofGivenCharTest {
     // So in the above statement you have to check the class of the above sentence.Here it is String,so its return "java.lang.String".
     public void TestCase1()
     {
-        assertEquals("java.lang.String",ref.CheckClassofInputLine("Java is java again java again"));
+        assertEquals("java.lang.String",ref.CheckClassofInputLine());
     }
 
     @Test
