@@ -39,7 +39,7 @@ public class OccurenceofGivenCharTest {
     //you have to check the occurences of character 'a',if it's present,then returns true,otherwise false.
     public void TestCase2()
     {
-        assertEquals("true",ref.CheckCharacter('a'));
+        assertEquals(true,ref.CheckCharacter("a"));
     }
 
     @Test
@@ -47,7 +47,7 @@ public class OccurenceofGivenCharTest {
     //In this case you have to count the number of occurences of the given character in the given string and returns the number.
     public void TestCase3()
     {
-        assertSame(4,ref.NumberofOccurences());
+        assertSame(10,ref.NumberofOccurences('a'));
     }
 
 

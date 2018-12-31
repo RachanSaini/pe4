@@ -2,19 +2,35 @@ package com.stackroute;
 
 public class OccurenceofGivenChar
 {
-    public String CheckClassofInputLine(String str)
-    {
-        return str;
+    private String str;
+
+    public OccurenceofGivenChar(String pass){
+        str = pass;
     }
 
-    public boolean CheckCharacter(char ch)
+    public String CheckClassofInputLine()
     {
-        return true;
+        String s = str.getClass().getName();
+        return s;
     }
 
-    public int NumberofOccurences()
+    public boolean CheckCharacter(String ch)
     {
-        return 0;
+        boolean val = str.contains(ch);
+        return val;
+    }
+
+    public int NumberofOccurences(char ch)
+    {
+
+        int count = 0;
+
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) == ch) {
+                count++;
+            }
+        }
+        return count;
     }
 
 }
