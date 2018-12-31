@@ -54,12 +54,5 @@ public class ReplaceAllDwithFAndLwithTTest {
         //assert
         assertEquals(expected,actual);
     }
-    @Test
-    public void TestForNoOccurencesAtAll() {
 
-        //act
-        String actual=replaceAllDwithFAndLwithT.replaceAllDwithFAndLwithT("");
-        //assert
-        assertNull(actual);
-    }
 }

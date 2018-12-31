@@ -10,9 +10,26 @@ package com.stackroute;
 //
 //        New String: faity fry
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class ReplaceAllDwithFAndLwithT {
     public String replaceAllDwithFAndLwithT(String s){
-        return null;
+        final String REGEX1 = "D";
+        final String REGEX2 = "L";
+
+        Pattern p1 = Pattern.compile(REGEX1);
+        Pattern p2 = Pattern.compile(REGEX2);
+
+        String result;
+
+        result = s.replaceAll(REGEX1, "F").replaceAll(REGEX2,"T").replaceAll("d","f").replaceAll("l","t");
+        return result;
+
+
     }
 
-}
+
+    }
+
+
