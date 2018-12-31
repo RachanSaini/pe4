@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e8383fb5-976f-4f3f-8005-46b4253f05e7" name="Default Changelist" comment="">
+=======
+
+    <list default="true" id="c3731aca-c586-47fc-9d13-1cf68c6b687b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pe4.iml" beforeDir="false" />
+    </list>
+
+    <list default="true" id="1a97ba49-73f8-4c50-81d4-e5b7ef2b8fca" name="Default Changelist" comment="">
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       <change afterPath="$PROJECT_DIR$/../ActivitySolid/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ActivitySolid/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ActivitySolid/src/main/java/com/stackroute/Car.java" afterDir="false" />
@@ -20,6 +31,30 @@
       <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Pe4.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/AppTest.class" afterDir="false" />
     </list>
+<<<<<<< HEAD
+=======
+    <ignored path="$PROJECT_DIR$/out/" />
+
+    <list default="true" id="f27d6c7c-7c30-49a2-b764-f393da54d262" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pe4.iml" beforeDir="false" />
+
+    <list default="true" id="1ed593c7-f3d8-478a-8cb5-42e02b4e4b53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pe4.iml" beforeDir="false" />
+
+    <list default="true" id="6d92a163-748c-48af-9e88-ad64907ff2d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pe4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+
+
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +62,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
+=======
+
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/AlphbeticalOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -35,6 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="105">
               <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
@@ -43,6 +93,15 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/HarryTest.java">
+=======
+            <state relative-caret-position="475">
+              <caret line="57" column="54" lean-forward="true" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceAllDwithFAndLwithT.java">
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -86,14 +145,41 @@
                 <element signature="e#0#1314#0" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="e#488#489#0" expanded="true" />
+<<<<<<< HEAD
                 <element signature="e#550#551#0" expanded="true" />
+=======
+                <element signature="e#556#557#0" expanded="true" />
+
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StringMatcherTest.java">
+=======
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AlphbeticalOrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#265#273#0" expanded="true" />
+                <element signature="e#604#612#0" expanded="true" />
+
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/HarryTest.java">
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -110,7 +196,16 @@
             <state relative-caret-position="375">
               <caret line="25" column="106" selection-start-line="25" selection-start-column="106" selection-end-line="25" selection-end-column="106" />
               <folding>
+<<<<<<< HEAD
                 <element signature="imports" expanded="true" />
+=======
+                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#1279#1280#0" expanded="true" />
+                <element signature="e#1524#1525#0" expanded="true" />
+                <element signature="e#1578#1579#0" expanded="true" />
+
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
               </folding>
             </state>
           </provider>
@@ -122,6 +217,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+<<<<<<< HEAD
+=======
+
+        <option value="JUnit4 Test Class" />
+
+
+
+
+
+        <option value="JUnit4 Test Class" />
+
+
+        <option value="JUnit4 Test Class" />
+
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       </list>
     </option>
   </component>
@@ -131,8 +242,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringMatcherTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java" />
+=======
+
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/AlphbeticalOrder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/AlphbeticalOrderTest.java" />
+      </list>
+    </option>
+  </component>
+
+
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringMatcherTest.java" />
+      </list>
+    </option>
+  </component>
+
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceAllDwithFAndIwithT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/ReplaceAllDwithFAndIwithTTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/ReplaceAllDwithFAndLwithTTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceAllDwithFAndLwithT.java" />
+      </list>
+    </option>
+  </component>
+
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Harry.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/HarryTest.java" />
       </list>
     </option>
   </component>
@@ -143,11 +278,100 @@
       </MavenImportingSettings>
     </option>
   </component>
+
+        <option value="$PROJECT_DIR$/src/test/java/StringTranspose.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringTranspose.java" />
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StringTransposeTest.java" />
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="803" />
+=======
+
+  <component name="ProjectFrameBounds" extendedState="7">
+
+
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="803" />
+
+  <component name="ProjectFrameBounds" extendedState="6">
+
+    <option name="x" value="67" />
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
     <option name="y" value="27" />
-    <option name="width" value="797" />
-    <option name="height" value="821" />
+    <option name="width" value="823" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,6 +385,10 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
               <item name="Pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pe4" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -172,6 +400,16 @@
             <path>
               <item name="Pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pe4" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,21 +434,47 @@
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="Pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pe4" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="Pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pe4" type="462c0819:PsiDirectoryNode" />
+=======
+
+              <item name="Pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pe4" type="462c0819:PsiDirectoryNode" />
+
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="Pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pe4" type="462c0819:PsiDirectoryNode" />
+=======
+
+              <item name="Pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pe4" type="462c0819:PsiDirectoryNode" />
+
+              <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -225,11 +489,73 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546260785054" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PE3/PE3/src/test/java/com/stackroute/ChessBoardPatternTest.java" />
+=======
+
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546257583691" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546256371383" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PE3/PE3/src/test/java/com/stackroute/ChessBoardPatternTest.java" />
+
+
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546255845664" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546255736163" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+
+
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546255937179" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/stackroute" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+
+
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,6 +569,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+
+  <component name="RunManager" selected="JUnit.ReplaceAllDwithFAndLwithTTest.TestForNoOccurencesAtAll">
+    <configuration name="ReplaceAllDwithFAndIwithTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
   <component name="RunManager">
     <configuration name="ReplaceAllDwithFAndLwithTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pe4" />
@@ -264,19 +597,58 @@
       </list>
     </recent_temporary>
   </component>
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+=======
+
+      <changelist id="c3731aca-c586-47fc-9d13-1cf68c6b687b" name="Default Changelist" comment="" />
+      <created>1546253783315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546253783315</updated>
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       <changelist id="1a97ba49-73f8-4c50-81d4-e5b7ef2b8fca" name="Default Changelist" comment="" />
       <created>1546251303464</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546251303464</updated>
+
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ToolWindowManager">
+
+    <frame x="67" y="25" width="1533" height="875" extended-state="7" />
+
+    <frame x="803" y="27" width="797" height="821" extended-state="0" />
+
+      <changelist id="f27d6c7c-7c30-49a2-b764-f393da54d262" name="Default Changelist" comment="" />
+      <created>1546253058971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546253058971</updated>
+
+      <changelist id="1ed593c7-f3d8-478a-8cb5-42e02b4e4b53" name="Default Changelist" comment="" />
+      <created>1546253727252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546253727252</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
   <component name="TestHistory">
     <history-entry file="ReplaceAllDwithFAndLwithTTest - 2018.12.31 at 18h 22m 02s.xml">
       <configuration name="ReplaceAllDwithFAndLwithTTest" configurationId="JUnit" />
@@ -284,21 +656,90 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+<<<<<<< HEAD
+=======
+
+    <editor active="true" />
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" weight="0.4936113" />
+=======
+
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49966374" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003362" side_tool="true" weight="0.3297587" />
+
+      <window_info content_ui="combo" id="Project" order="0" weight="0.49400797" />
+
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" weight="0.35549134" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30563003" />
+=======
+
+      <window_info anchor="bottom" id="Messages" weight="0.35549134" />
+
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+    <history-entry file="HarryTest - 2018.12.31 at 16h 33m 44s.xml">
+      <configuration name="HarryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+
+      <changelist id="6d92a163-748c-48af-9e88-ad64907ff2d1" name="Default Changelist" comment="" />
+      <created>1546251962524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546251962524</updated>
+    </task>
+    <servers />
+  </component>
+
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49966374" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003362" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,10 +755,52 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/AlphbeticalOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StringMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PE3/PE3/src/test/java/com/stackroute/ChessBoardPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StringMatcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="57" column="54" lean-forward="true" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceAllDwithFAndIwithT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/ReplaceAllDwithFAndIwithTTest.java">
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
@@ -347,7 +830,34 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/ReplaceAllDwithFAndLwithTTest.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AlphbeticalOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#273#0" expanded="true" />
+            <element signature="e#604#612#0" expanded="true" />
+
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/HarryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/AppTest.java">
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -372,7 +882,14 @@
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
+<<<<<<< HEAD
             <element signature="imports" expanded="true" />
+=======
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1524#1525#0" expanded="true" />
+            <element signature="e#1578#1579#0" expanded="true" />
+>>>>>>> 076d940764cd9a709cf3249b4dd0b27df480f1b3
           </folding>
         </state>
       </provider>
